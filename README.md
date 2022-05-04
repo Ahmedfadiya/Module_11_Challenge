@@ -31,7 +31,7 @@ Python, Pandas Library, Anaconda Jupyter Lab, Pathlib Library, holoviews, fbprop
 •	Install Anaconda
 •	Install Jupiter Lab
 Install required libraries such as fbprophet 
-•	checkout git repository https://github.com/Ahmedfadiya/Module_10_Challenge.git
+•	checkout git repository https://github.com/Ahmedfadiya/Module_11_Challenge.git
 •	navigate to the folder through Jupyter Lab
 
 
